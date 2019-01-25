@@ -1,0 +1,19 @@
+Homework 2
+========================================================
+
+### Task 1 - Re-Implementation
+
+```{r}
+```
+
+### Task 2 - Re-Validation & Testing
+
+#### Test - Good Inputs
+
+```{r}
+```
+
+#### Test - Bad Inputs
+
+```{r error=TRUE}
+```
