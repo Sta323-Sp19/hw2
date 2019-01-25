@@ -14,8 +14,9 @@ Due by 11:59 pm on Thursday 1/31/2019.
 
 At this year's UseR conference, Jenny Bryan gave a keynote lecture titled "Code Smells and Feels", a video of this lecture is available on [youtube](https://www.youtube.com/watch?v=7oyiPBjLAWY) and a repo containing the slides and related materials is on [github](https://github.com/jennybc/code-smells-and-feels).
 
-This talk is a wonderful introduction into what good R code should look like as well as the process of refactoring existing code to improve its overall quality. I strongly recommend that you take an hour to watch the lecture in its entirety.
+This talk is a wonderful introduction into what good R code should look like as well as the process of refactoring existing code to improve its overall quality. I strongly recommend that you take an hour to watch the lecture in its entirety. At the very least her slides are also worth skimming through.
 
+<br/>
 
 ## Task 1 - Re-Implement FizzBuzz 
 
